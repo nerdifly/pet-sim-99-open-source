@@ -1,5 +1,5 @@
 # pet-sim-99-open-source
-just some opensource scripts have fun
+just some opensource scripts have fun pet simualtor 99
 
 leaked SyrexHubv2 (you may need to change some stuff)
 ```
